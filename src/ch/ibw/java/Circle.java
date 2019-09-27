@@ -22,7 +22,5 @@ public class Circle {
                 '}';
     }
 
-    public void diameter() {
-        System.out.println("Der Durchmesser vom Radius: " + this.radius + " ist " + this.radius * 2);
-    }
+    
 }
